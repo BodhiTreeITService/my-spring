@@ -1,0 +1,2 @@
+ibmcom/db2:11.5.7.0a
+mcr.microsoft.com/mssql/server:2019-CU17-ubuntu-20.04

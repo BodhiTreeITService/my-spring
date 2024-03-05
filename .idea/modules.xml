@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-spring.iml" filepath="$PROJECT_DIR$/.idea/my-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot-autoconfigure/spring-boot.spring-boot-project.spring-boot-autoconfigure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot-autoconfigure/spring-boot.spring-boot-project.spring-boot-autoconfigure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot-devtools/spring-boot.spring-boot-project.spring-boot-devtools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot-devtools/spring-boot.spring-boot-project.spring-boot-devtools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot/spring-boot.spring-boot-project.spring-boot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-project/spring-boot/spring-boot.spring-boot-project.spring-boot.main.iml" />
+    </modules>
+  </component>
+</project>
